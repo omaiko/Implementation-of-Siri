@@ -1,0 +1,4 @@
+osascript -e 'tell application "Spotify"
+launch
+next track
+end tell'
